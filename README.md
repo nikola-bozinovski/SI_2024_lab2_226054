@@ -57,6 +57,14 @@
             <td></td>
             <td>&#x2713;</td>
         </tr>
+	<tr>
+            <th>4.2</th>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>&#x2713;</td>
+        </tr>
         <tr>
             <th>5</th>
             <td></td>
@@ -179,16 +187,16 @@
         </tr>
         <tr>
             <th>18</th>
-            <td></td>
             <td>&#x2713;</td>
             <td></td>
+	    <td></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
             <th>19</th>
-            <td>&#x2713;</td>
             <td></td>
+	    <td>&#x2713;</td>
             <td></td>
             <td></td>
             <td></td>
