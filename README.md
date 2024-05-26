@@ -204,25 +204,35 @@
 </table>
 <br>
 Input се:<br>
+<blockquote>
     Case 1:<br>
     All Items = [Item("ABC", "0123", 400, 0.5)]<br>
     Payment = 0<br>
+</blockquote>
 <br>
+<blockquote>
     Case 2:<br>
     All Items = [Item("ABC", "0123", 400, 0.5)]<br>
     payment = 1000<br>
+</blockquote>
 <br>
+<blockquote>
     Case 3:<br>
     All Items = [Item("ABC", null, 0, 0)]<br>
     payment = 4<br>
+</blockquote>
 <br>
+<blockquote>
     Case 4:<br>
     AllItems = null<br>
     payment = 4<br>
+</blockquote>
 <br>
+<blockquote>
     Case 5:<br>
     All Items = [ Item("","0123",0,0), Item("ABCD","0123",0,1), Item("ABCD","Z",0,1)]<br>
     payment = 400<br>
+</blockquote>
 <br>
 # Multiple Condition Критериум 
 Условот: if (item.getPrice() > 300 && item.getDiscount() > 0 && item.getBarcode().charAt(0) == '0')<br>
