@@ -1,8 +1,5 @@
 # Control Flow Graph
 ![ControlFlowGraph](https://github.com/nikola-bozinovski/SI_2024_lab2_226054/assets/166914433/cb286ec5-6447-40a9-9535-8c184c438742)
-<table>
-  <tr><td>A</td><td>B</td></tr>
-</table>
 # Цикломатската Комплексност
 цикломатската комплексност се пресметува со E - N + 2P, каде:<br>
   E, број на ребра ни е 32<br>
