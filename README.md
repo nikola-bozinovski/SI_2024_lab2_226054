@@ -8,7 +8,6 @@
   Тоест, 32 - 24 + 2*1, цикломатската комплексност е 10.<br>
   
 # Every Branch Критериум 
-<table >
         <tr>
             <th></th>
             <th>Case 1:</th>
@@ -201,8 +200,6 @@
             <td>&#x2713;</td>
             <td>&#x2713;</td>
         </tr>
-        
-      </table>
 <br>
 Input се:<br>
     Case 1:<br>
