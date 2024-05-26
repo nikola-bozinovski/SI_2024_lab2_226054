@@ -227,6 +227,8 @@
     All Items = [ Item("","0123",0,0), Item("ABCD","0123",0,1), Item("ABCD","Z",0,1)]<br>
     payment = 400<br>
 </blockquote>
+<br>
+
 # Multiple Condition Критериум 
 Условот: if (item.getPrice() > 300 && item.getDiscount() > 0 && item.getBarcode().charAt(0) == '0')<br>
 е задоволен ако:<br>
