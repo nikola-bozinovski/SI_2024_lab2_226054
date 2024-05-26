@@ -58,7 +58,7 @@
             <td>&#x2713;</td>
         </tr>
 	<tr>
-            <th>4.2</th>
+            <th>4.3</th>
             <td></td>
             <td></td>
             <td></td>
